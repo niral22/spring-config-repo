@@ -1,0 +1,2 @@
+endpoint:
+  fg-service-name: https://localhost:9002/nt-ms/data
